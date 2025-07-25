@@ -41,6 +41,7 @@
 
 .message.ai {
   justify-content: flex-start;
+  color: #040b33 !important;
 }
 
 .message.user {
