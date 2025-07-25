@@ -48,13 +48,13 @@
 }
 
 .message.ai .message-content {
-  background-color: #7fdbca;
+  background-color: #194940;
   color: white;
   border-radius: var(--border-radius);
 }
 
 .message.user .message-content {
-  background-color: #7fdbca !important;
+  background-color: #1c4941 !important;
   color: var(--user-message-text);
   border-radius: var(--border-radius);
 }
